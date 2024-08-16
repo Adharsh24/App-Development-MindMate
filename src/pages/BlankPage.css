@@ -1,0 +1,22 @@
+.blank-page {
+    background-color: #14a098;
+    background-size: cover;
+    height: 100vh;
+    color: #cccccc; /* Ensure text color is visible on the background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .button {
+    background-color: #cb2d6f;
+    color: #ffffff; /* Ensure text color is visible on the button */
+    width: 200px; /* Adjust width as needed */
+    height: 50px; /* Adjust height as needed */
+    margin: 10px; /* Add spacing between buttons */
+  }
+  
+  .button:hover {
+    background-color: #a72a5e; /* Darker shade for hover effect */
+  }
+  
